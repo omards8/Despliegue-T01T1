@@ -9,8 +9,8 @@ issueConfigs:
   - "Expected behavior"
 - content:
 # Example 2: feature request
-  - "Motivation / Use Case"
-  - "Expected Behavior"
-  - "Other Information"
+  - "Describe the bug"
+  - "Steps to Reproduce"
+  - "Expected behavior"
 # The issue is judged to be legal if it includes all keywords from any of these two configs.
 # Or it will be closed by the app.
